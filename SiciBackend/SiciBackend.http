@@ -1,0 +1,6 @@
+@SiciBackend_HostAddress = http://localhost:5085
+
+GET {{SiciBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
